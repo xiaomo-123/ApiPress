@@ -1,0 +1,9 @@
+{
+    "target_url": "http://38.46.219.171:5431/connection-pool-status",
+    "request_method": "GET",
+    "thread_num": "1",
+    "total_requests": "1",
+    "timeout": "5",
+    "headers": "",
+    "data": ""
+}

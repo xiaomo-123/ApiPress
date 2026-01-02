@@ -1,9 +1,0 @@
-{
-    "target_url": "http://38.46.219.171:5431/claude-kiro-oauth/v1/messages",
-    "request_method": "POST",
-    "thread_num": "10",
-    "total_requests": "10",
-    "timeout": "5",
-    "headers": "{\"Content-Type\": \"application/json\"}",
-    "data": "{\"model\":\"claude-sonnet-4-5\",\"max_tokens\":4096,\"messages\":[{\"role\":\"user\",\"content\":\"Hello, how are you？\"}]}"
-}
